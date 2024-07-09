@@ -1,0 +1,1 @@
+Cartella riservata ai risultati della Query 2 per l'intero dataset.

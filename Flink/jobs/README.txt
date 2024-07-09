@@ -1,0 +1,2 @@
+Cartella riservata ai file .jar da sottomettere a flink. Lo script di esecuzione principale del progetto builda automaticamente
+i file pom.xml necessari alla creazione dei jar e li inserisce in questa cartella, per poi farli partire ad una distanza di 5 secondi.

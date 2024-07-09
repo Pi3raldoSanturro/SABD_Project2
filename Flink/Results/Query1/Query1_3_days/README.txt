@@ -1,0 +1,1 @@
+Cartella riservata ai risultati della Query 1 per tre giorni.
