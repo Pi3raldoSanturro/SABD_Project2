@@ -1,0 +1,2 @@
+Inserire in questa cartella il dataset in formato .csv rinominato 'dataset.csv'. Tramite lo script di esecuzione
+principale del progetto verrà creata una versione filtrata del dataset chiamata 'filtered_dataset.csv'.
